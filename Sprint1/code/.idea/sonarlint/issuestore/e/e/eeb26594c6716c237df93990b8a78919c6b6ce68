@@ -1,0 +1,16 @@
+
+U
+java:S1854"?Remove this useless assignment to local variable "temperature".(ÿÃ¥‹
+S
+java:S1854"8Remove this useless assignment to local variable "rain".(¾¾š‰ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ê·»½
+@	java:S106
+"+Replace this use of System.out by a logger.(¡àîâ
+@	java:S106"+Replace this use of System.out by a logger.(òÁµ÷
+?	java:S106"+Replace this use of System.out by a logger.(©›å
+@	java:S106"+Replace this use of System.out by a logger.(¯ÂŠ
+D
+java:S1481")Remove this unused "rain" local variable.(¾¾š‰ùÿÿÿÿ
+F
+java:S1481"0Remove this unused "temperature" local variable.(ÿÃ¥‹
+@	java:S106"+Replace this use of System.out by a logger.(ô˜ÔÔ
